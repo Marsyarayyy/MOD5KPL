@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JURNAL5_KPL_1302213003/1.0.0": {
+        "runtime": {
+          "JURNAL5_KPL_1302213003.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JURNAL5_KPL_1302213003/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
